@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.rockfireredmoon</groupId>
 	<artifactId>jameson</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Jameson</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -14,7 +14,7 @@
 		<connection>scm:git:git://github.com/rockfireredmoon/jameson.git</connection>
 		<developerConnection>scm:git:git@github.com:rockfireredmoon/rockfireredmoon.git</developerConnection>
 		<url>https://github.com/rockfireredmoon/jameson</url>
-		<tag>jameson-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	<developers>
