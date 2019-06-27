@@ -57,7 +57,7 @@ You can query various aspects of the project.
 
 ```java
 	MesonProjectInformation info = project.info();
-	/* Display the main project version, other attribute can be queries such as description and more */
+	/* Display the main project version, other attribute can be queries such as name, description and more */
 	System.out.println("Version: " + info.version());
 	for(MesonSubproject sub : info) {
 		/* Display the subproject name, other attributes can be queried such as decription, version and more */
