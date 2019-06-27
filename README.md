@@ -1,5 +1,6 @@
 # jameson
-Simple library for interacting with the Meson build system from Java
+
+Simple library for interacting with the Meson build system from Java. Intended for use as a basis for IDE, build and CI system integration.a
 
 ## Installation
 
