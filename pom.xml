@@ -10,8 +10,15 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
-	<description>Simple library for interacting with the Meson build system from Java</description>
+	<description>Simple library for interacting with the Meson build system from Java. Intended for use as a basis for IDE, build and CI system integration.</description>
 
+	<scm>
+		<connection>scm:git:git://github.com/rockfireredmoon/jameson.git</connection>
+		<developerConnection>scm:git:git@github.com:rockfireredmoon/rockfireredmoon.git</developerConnection>
+		<url>https://github.com/rockfireredmoon/jameson</url>
+		<tag>HEAD</tag>
+	</scm>
+	
 	<developers>
 		<developer>
 			<name>Rockfire Redmoon</name>
